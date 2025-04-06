@@ -39,6 +39,7 @@
 ![VSCode](https://img.shields.io/badge/vscode-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Alice3](https://img.shields.io/badge/Alice3-000957.svg?style=for-the-badge&logo=alice3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000957.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
